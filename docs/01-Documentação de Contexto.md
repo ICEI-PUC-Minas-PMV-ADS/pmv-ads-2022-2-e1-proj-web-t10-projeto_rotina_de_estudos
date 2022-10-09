@@ -1,46 +1,38 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O mundo vem enfrentando uma crise econômica nos últimos anos que tem atingido todas as esferas da população. Com o surgimento do coronavírus, muitos países desenvolvidos se viram com sérios problemas de abastecimento de alimentos e matéria prima, em alguns estados faltaram pessoas para desempenhar até as funções mais básicas. Essa crise generalizada teve impactos maiores em países subdesenvolvidos que, além de sofrerem com o desabastecimento nas indústrias, também enfrentaram um alto índice de desemprego. Segundo o IBGE, estima-se que no Brasil, atualmente, tenha cerca de 10,1 milhões de desempregados, o que corresponde a 9,3% da população. Dada a insegurança que o momento atual apresenta, muitas pessoas têm optado por se dedicar aos concursos públicos, que são a porta de entrada para uma vida estável, longe da ameaça de desemprego constante.
+
+Em artigo publicado no JusBrasil, BASTOS (2019) destaca a ANPAC (Associação Nacional de Apoio aos Concursos) mencionando que o número de pessoas prestando concursos com o objetivo de atingir melhores condições de vida e estabilidade em suas carreiras vêm crescendo cerca de 40% ao ano, deixando os concurseiros bem apreensivos com o aumento da concorrência.
+
+ Neste mesmo cenário estão também os vestibulandos, que com o fim do ensino médio se veem pressionados para ingressar o quanto antes na vida acadêmica. Essa pressão em cima dos estudantes dificulta a concentração em sua rotina de estudos, e afeta diversos campos da vida familiar, social, fisiológica, mental, entre outros. Para o estudante que almeja ingressar no mundo dos concursos e vestibulares é essencial que se tenha antes de tudo saúde emocional para assimilar os conteúdos e disponha de um material direcionado para as necessidades da prova que se pretende fazer.
+ 
+ A sociedade atual tem um conceito imediatista dos processos, tudo tem que fluir da maneira mais rápida e sem erros possível, é comum as pessoas falarem que o dia deveria ser mais longo para conseguir administrar tantos afazeres, a verdade é que a maior parte dessa sobrecarga vem da dificuldade de organização da rotina e da notória falta de planejamento e gestão do tempo. Uma rotina de estudos bem definida pode ser um divisor de águas na vida do estudante, pois visa justamente ajudar na organização de tempo e conteúdo. Com um planejamento funcional e direcionado em mãos, o estudante terá maiores chances de aprovação nos exames que se almeja fazer. 
+
+Dessa forma o site “Rotina de Estudos” auxiliará o estudante na busca pela aprovação, através da otimização do tempo, com o uso da ferramenta o estudante conseguirá abranger maior parte do conteúdo, terá um estudo mais eficiente e aumentará a produtividade e consequentemente as suas chances de aprovação. O presente projeto, propõe a criação de uma ferramenta em que o estudante possa cadastrar os conteúdos que deseja estudar, para desenvolver o planejamento e a organização disciplinada dos seus estudos.
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Atualmente grande parte dos estudantes não conseguem definir um bom planejamento e seguir uma rotina de estudos, fato esse que impacta em sua performance, atrelado a isso,muitos também enfrentam  dificuldades de acompanhar o seu progresso nas matérias que são mais extensas. O problema que se busca resolver com este projeto é estabelecer uma rotina de estudos que contribua para o melhor desempenho do estudante e concurseiro.
 
 ## Objetivos
+O objetivo geral deste trabalho é a criação de um site que possibilite ao estudante organizar sua rotina de estudos, através do cadastro de conteúdos programáticos realizados pelo próprio usuário, para que otimize seu tempo de estudo, aumente a demanda de conteúdos, resultando em maiores chances de aprovações. 
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Como objetivos específicos, podemos ressaltar:
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+●	Cadastrar e editar as tarefas a serem estudadas, permitindo a definição de um título e uma descrição detalhada para a tarefa;
+
+●	Definir prazos para finalização das tarefas;
+
+●	Definir status da tarefa (não iniciada, em andamento e concluída)
+
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Esse projeto visa desenvolver uma ferramenta que auxilie no planejamento de uma rotina de estudos e será implementado através de um site direcionado a estudantes com idade a partir de 16 anos.  O projeto se baseia na dificuldade de se conseguir administrar o tempo enfrentada por muitos estudantes, através da ferramenta será possível se ter uma gestão de tempo inteligente e direcionada para as necessidades de cada indivíduo.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Rotinas bem definidas podem beneficiar as pessoas em diversos segmentos, sendo importante respeitar as características de cada um, seu ritmo, individualidade e necessidades. Assim, o foco deste trabalho está no público que necessita organizar um cronograma de estudos, administrando sua rotina com o tempo disponível para estudar. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Deste modo, estabeleceu-se como público-alvo deste projeto, alunos do ensino médio, homens e mulheres, que estão se preparando para o vestibular e ingressos no ensino superior, com idades a partir de 16 anos. E para concurseiros, que se encontram em constante preparo, com idades a partir de 18 anos, brasileiros natos ou naturalizados que utilizam de ferramentas tecnológicas como aliada aos estudos.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
