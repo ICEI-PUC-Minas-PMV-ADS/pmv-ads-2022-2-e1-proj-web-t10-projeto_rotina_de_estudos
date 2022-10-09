@@ -1,5 +1,4 @@
-# TÍTULO DO PROJETO
-Projeto Rotina de Estudos
+# Projeto Rotina de Estudos
 
 `CURSO`
 Análise e Desenvolvimento de Sistemas
