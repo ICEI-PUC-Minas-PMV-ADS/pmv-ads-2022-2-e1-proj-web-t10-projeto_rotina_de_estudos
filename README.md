@@ -1,23 +1,28 @@
 # TÍTULO DO PROJETO
+Projeto Rotina de Estudos
 
 `CURSO`
+Análise e Desenvolvimento de Sistemas
 
 `DISCIPLINA`
+Eixo 1 - Projeto: Desenvolvimento de Aplicação Web Front-End
 
 `SEMESTRE`
+2022/2
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
-
+Esse projeto visa desenvolver uma ferramenta que auxilie no planejamento de uma rotina de estudos e será implementado através de um site direcionado a estudantes com idade a partir de 16 anos.
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Tais Barros Santos
+* Evelise Jardini Bellini
+* Gleiber Morinigo da Costa
+* Leandro Henrique de Oliveira Reis
+* Lucas Reis Alves
+* Thiago de Oliveira Gomes
 
 ## Orientador
 
-* Nome completo do professor 1
+* Josemar Alves Caetano
 
 ## Instruções de utilização
 
