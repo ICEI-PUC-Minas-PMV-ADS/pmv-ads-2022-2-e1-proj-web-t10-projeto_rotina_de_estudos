@@ -22,7 +22,7 @@ A tela de home-page deseja as boas-vindas ao usuário e permite que ele selecion
 ●	Se o usuário selecionar a opção concurseiro, será direcionado para a página de cadastro.
 
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+![Figura 3 - Tela Inicial – Boas-vindas](img/tela-boas-vindas-figura3.png)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
