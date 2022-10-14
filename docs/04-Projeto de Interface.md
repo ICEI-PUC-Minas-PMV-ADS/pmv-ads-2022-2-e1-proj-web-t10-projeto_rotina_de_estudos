@@ -18,7 +18,9 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 ## Tela - Home-Page
 
 A tela de home-page deseja as boas-vindas ao usuário e permite que ele selecione o perfil em que se enquadra. 
+
 ●	Se o usuário selecionar a opção vestibulando, será direcionado para a página de cadastro.
+
 ●	Se o usuário selecionar a opção concurseiro, será direcionado para a página de cadastro.
 
 
