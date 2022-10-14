@@ -26,8 +26,7 @@ A tela de home-page deseja as boas-vindas ao usuário e permite que ele selecion
 
 ![Figura 3 - Tela Inicial – Boas-vindas](img/tela-boas-vindas-figura3.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
+
 ## Tela - Cadastro
 A tela Cadastro permite ao usuário preencher com seu nome completo, e-mail, CPF e telefone celular e ter seus conteúdos e acesso salvos automaticamente em seu navegador local.  O usuário deverá aceitar os termos e política de privacidade para concluir o cadastro.  
 
