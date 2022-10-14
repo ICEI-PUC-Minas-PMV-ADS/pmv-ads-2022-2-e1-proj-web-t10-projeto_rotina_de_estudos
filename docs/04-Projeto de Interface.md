@@ -15,6 +15,12 @@ O diagrama apresentado na Figura 2 mostra o fluxo de interação do usuário pel
 
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. 
 
+Tela - Home-Page
+A tela de home-page deseja as boas-vindas ao usuário e permite que ele selecione o perfil em que se enquadra. 
+●	Se o usuário selecionar a opção vestibulando, será direcionado para a página de cadastro.
+●	Se o usuário selecionar a opção concurseiro, será direcionado para a página de cadastro.
+
+
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
