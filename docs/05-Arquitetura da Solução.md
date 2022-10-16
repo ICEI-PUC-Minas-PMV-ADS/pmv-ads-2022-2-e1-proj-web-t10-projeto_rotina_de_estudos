@@ -3,6 +3,7 @@
 Nesta seção são apresentados os detalhes técnicos da solução criada pela equipe, tratando dos componentes que fazem parte da solução e do ambiente de hospedagem da solução.
 
 Diagrama de Componentes
+
 Os componentes que fazem parte da solução são apresentados na Figura que se segue:
 
 ![image](https://user-images.githubusercontent.com/115049890/196055349-b1b8ce95-5771-4b3c-b7dc-8438164167a4.png)
