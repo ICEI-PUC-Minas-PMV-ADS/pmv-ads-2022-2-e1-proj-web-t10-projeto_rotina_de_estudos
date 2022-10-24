@@ -8,7 +8,7 @@ O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de
 
 O template criado é composto pelos seguintes layouts: 
 
-●	Tela principal de boas-vindas
+●	Tela de boas-vindas
 
 ●	Tela Cadastro
 
