@@ -33,11 +33,15 @@ O template criado é composto pelos seguintes layouts:
 
 
 
+
+
+
 ## Tela de boas-vindas
 
 Tela de abertura que deseja boas-vindas e permite ao usuário selecionar o perfil em que se enquadra. 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos/blob/main/docs/img/tela-boas-vindas-figura3.png?raw=true)
+
 
 
 
@@ -49,11 +53,13 @@ Tela de cadastro do usuário para preenchimento com seus dados pessoais.
 
 
 
+
 ## Página Principal Vestibulando 
 
 Tela que contém os tópicos e tarefas a serem cadastradas, e o menu lateral. 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos/blob/main/docs/img/Pagina%20principal%20vestibulando.png?raw=true)
+
 
 
 
@@ -63,11 +69,17 @@ Tela que contém os tópicos e tarefas a serem cadastradas, e o menu lateral.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos/blob/main/docs/img/Pagina%20principal%20concurseiro.png?raw=true)
 
+
+
+
 ## Cadastro de novo conteúdo 
 
 Tela para cadastrar novos conteúdos, definindo título, descrição, prazo e status. 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos/blob/main/docs/img/cadastro%20novo%20conteudo.png?raw=true)
+
+
+
 
 ## Tela de edição de conteúdo 
 
@@ -75,11 +87,17 @@ Tela para editar os conteúdos, atualizando título, descrição, prazo e status
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos/blob/main/docs/img/tela%20edicao%20de%20conteudo.png?raw=true)
 
+
+
+
 ## Tela de remoção de conteúdo 
 
 Tela para remover o conteúdo.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos/blob/main/docs/img/tela%20remocao%20conteudo.png?raw=true)
+
+
+
 
 ## Tela de edição de Cadastro
 
@@ -87,17 +105,26 @@ Tela para o usuário editar seus dados cadastrais e/ou excluir conta.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos/blob/main/docs/img/tela%20edicao%20cadastro.png?raw=true)
 
+
+
+
 ## Tela de confirmação de cancelamento de conta
 
 Tela para o usuário confirmar o cancelamento de sua conta.  
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos/blob/main/docs/img/tela%20confirmacao%20cancelamento%20de%20conta.png?raw=true)
 
+
+
+
 ## Acompanhe seu progresso
 
 Tela que permite o usuário acompanhar o andamento de seu progresso, visualizando as tarefas cadastradas, as não iniciadas, as que estão em andamento e as concluídas. 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos/blob/main/docs/img/acompanhe%20seu%20progresso.png?raw=true)
+
+
+
 
 ## Inclusão do Edital 
 
