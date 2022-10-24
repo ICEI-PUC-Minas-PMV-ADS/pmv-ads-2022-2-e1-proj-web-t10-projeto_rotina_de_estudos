@@ -44,5 +44,20 @@ Tela de cadastro do usuário para preenchimento com seus dados pessoais.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos/blob/main/docs/img/Tela%20cadastro.png?raw=true)
 
+## Página Principal Vestibulando 
+
+Tela que contém os tópicos e tarefas a serem cadastradas, e o menu lateral. 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos/blob/main/docs/img/Pagina%20principal%20vestibulando.png?raw=true)
+
+## Página Principal Concurseiro 
+
+Tela que contém os tópicos e tarefas a serem cadastradas, e o menu lateral. 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos/blob/main/docs/img/Pagina%20principal%20concurseiro.png?raw=true)
+
+
+
+
 
 
