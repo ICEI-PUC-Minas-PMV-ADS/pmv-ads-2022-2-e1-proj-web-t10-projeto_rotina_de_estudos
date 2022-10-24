@@ -9,15 +9,25 @@ O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de
 O template criado é composto pelos seguintes layouts: 
 
 ●	Tela principal de boas-vindas
+
 ●	Tela Cadastro
+
 ●	Página Principal Vestibulando
+
 ●	Página Principal Concurseiro
+
 ●	Cadastro de novo conteúdo
+
 ●	Tela de edição de conteúdo
+
 ●	Tela de remoção de conteúdo
+
 ●	Tela de edição de cadastro 
+
 ●	Tela de confirmação de cancelamento de conta
+
 ●	Acompanhe seu progresso
+
 ●	Inclusão do edital
 
 
