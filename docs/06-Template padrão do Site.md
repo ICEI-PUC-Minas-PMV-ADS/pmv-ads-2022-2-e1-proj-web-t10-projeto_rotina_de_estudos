@@ -32,11 +32,14 @@ O template criado é composto pelos seguintes layouts:
 
 
 
+
 ## Tela de boas-vindas
 
 Tela de abertura que deseja boas-vindas e permite ao usuário selecionar o perfil em que se enquadra. 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos/blob/main/docs/img/tela-boas-vindas-figura3.png?raw=true)
+
+
 
 ## Tela Cadastro
 
@@ -44,11 +47,15 @@ Tela de cadastro do usuário para preenchimento com seus dados pessoais.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos/blob/main/docs/img/Tela%20cadastro.png?raw=true)
 
+
+
 ## Página Principal Vestibulando 
 
 Tela que contém os tópicos e tarefas a serem cadastradas, e o menu lateral. 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos/blob/main/docs/img/Pagina%20principal%20vestibulando.png?raw=true)
+
+
 
 ## Página Principal Concurseiro 
 
