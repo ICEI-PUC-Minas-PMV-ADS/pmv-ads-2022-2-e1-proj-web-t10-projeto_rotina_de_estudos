@@ -31,5 +31,9 @@ O template criado é composto pelos seguintes layouts:
 ●	Inclusão do edital
 
 
+Tela de boas-vindas
+Tela de abertura que deseja boas-vindas e permite ao usuário selecionar o perfil em que se enquadra. 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos/blob/main/docs/img/tela-boas-vindas-figura3.png?raw=true)
 
 
