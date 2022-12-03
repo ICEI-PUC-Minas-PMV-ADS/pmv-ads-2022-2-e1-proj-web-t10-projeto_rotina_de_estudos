@@ -34,5 +34,5 @@ Esse projeto visa desenvolver uma ferramenta que auxilie no planejamento de uma 
 
 Rotinas bem definidas podem beneficiar as pessoas em diversos segmentos, sendo importante respeitar as características de cada um, seu ritmo, individualidade e necessidades. Assim, o foco deste trabalho está no público que necessita organizar um cronograma de estudos, administrando sua rotina com o tempo disponível para estudar. 
 
-Deste modo, estabeleceu-se como público-alvo deste projeto, alunos do ensino médio, homens e mulheres, que estão se preparando para o vestibular e ingressos no ensino superior, com idades a partir de 16 anos. E para concurseiros, que se encontram em constante preparo, com idades a partir de 18 anos, brasileiros natos ou naturalizados que utilizam de ferramentas tecnológicas como aliada aos estudos.
+Deste modo, estabeleceu-se como público-alvo deste projeto, alunos do ensino médio, homens e mulheres, que estão se preparando para o vestibular e ingressos no ensino superior, com idades a partir de 16 anos. Para concurseiros, que se encontram em constante preparo, com idades a partir de 18 anos, brasileiros natos ou naturalizados que utilizam de ferramentas tecnológicas como aliada aos estudos.
 
