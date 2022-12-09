@@ -1,0 +1,90 @@
+* {
+    padding: 0.5%;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    text-align: left;
+  }
+  
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+  }
+  
+.boxtittle{
+    display: flex;
+    text-align: center;
+    color: #6c63ff;
+    width: 100%;
+    height: 15%;
+    padding: 0;
+    margin: 0px;
+  }
+
+.box{
+    width: 90%;
+    height: 80%;
+    border: 2px solid #6c63ff;
+    margin: 15px;
+    padding: 10;
+  }
+
+.box2 {
+    width: 32%;
+    height: 10%;
+    margin: 15px;
+    padding: 10;
+  }
+  
+.save-button {
+    display: flex;
+    align-items: center;
+    float:left;
+  }
+      
+.save-button button {
+    border: none;
+    background-color: #187a00;
+    padding: 0.4rem 4rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+      
+.save-button button:hover {
+    background-color: #1b8500;
+  }
+      
+.save-button button a {
+    text-decoration: none;
+    font-weight: 500;
+    color: #fff;
+  }
+    
+  
+.cancel-button {
+    display: flex;
+    align-items: center;
+    float:right;
+  }
+  
+.cancel-button button {
+    border: none;
+    background-color: rgb(44, 43, 43);
+    padding: 0.4rem 4rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+.cancel-button button:hover {
+    background-color: rgb(56, 54, 54);
+  }
+  
+.cancel-button button a {
+    text-decoration: none;
+    font-weight: 500;
+    color: #fff;
+  }
