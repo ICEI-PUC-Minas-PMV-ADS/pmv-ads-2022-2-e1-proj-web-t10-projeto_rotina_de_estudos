@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
   <head> </head>
-  <title>Cadastro de novo conteúdo</title>
+  <title>Cadastro de Conteúdo</title>
 
   <link
     rel="stylesheet"
@@ -12,5 +12,65 @@
 
   <script type="text/javascript" src="js/scripts.js"></script>
 
-  <body></body>
+  <body>
+  <div class="box">
+    <div class= "boxtittle">
+      <h1>Cadastre um novo conteúdo abaixo, "nome do tópico"</h1>
+    </div>
+    <p> Para organizar seu cronograma de estudos, você deverá cadastrar os conteúdos programáticos específicos de sua programação.
+        É importante adicionar um título para seus conteúdos, com uma boa descrição, incluindo até mesmo links de artigos e vídeos que auxiliarão no seu entendimento.
+    Estipule também um prazo final para a conclusão de cada conteúdo e edite o status da tarefa(não iniciada, em andamento, concluída) conforme for avançando nos estudos. </p>
+    <br>
+    <div class="input-box0">
+      <label for="título">Título</label>
+    <input
+      id="título"
+      type="título"
+      name="Título"
+      placeholder=""
+      required
+      />
+    </div>
+    <div class="input-box1">
+      <label for="descrição">Descrição</label>
+    <input
+      id="descrição"
+      type="Descrição"
+      name="Descrição"
+      placeholder=""
+      required
+      />
+    </div>
+    <div class="input-box">
+      <label for="przo">Prazo</label>
+    <input
+      id="prazo"
+      type="Prazo"
+      name="Prazo"
+      placeholder=""
+      required
+      />
+    </div>
+    <div class="input-box">
+      <label for="status">Status</label>
+    <input
+      id="status"
+      type="Status"
+      name="Status"
+      placeholder=""
+      required
+      />
+    </div>
+    <div class="box2">
+      <div class="save-button">
+        <button><a href="#">Adicionar Conteúdo</a></button>
+      </div>
+      <br>
+      <br>
+      <div class="cancel-button">
+        <button><a href="#">Cancelar</a></button>
+      </div>
+    </div>
+  </div>
+  </body>
 </html>
