@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<html lang="pt-br"
+    <head>
+        <link
+        rel="stylesheet"
+        type="text/css"
+        href="css/styles.css"
+        media="screen"
+        <meta charset="utf-8"
+        <title>Confirmação de cancelamento de conta</title>
+    </head>
+
+    <body>
+        <h1 style="font-size:20px;text-align: center;">Voce realmente deseja remover sua conta?</h1>
+        <p style="text-align: center"> Para dar continuidade,clique no botão de confirmação abaixo.</p>
+        <p style="text-align: center"><strong>Atenção!</strong> Após confirmar, não será possivel recuperar a conta.</p>
+        
+  
+  <script type="text/javascript" src="js/scripts.js"></script>
+
+    </body>
+</html>

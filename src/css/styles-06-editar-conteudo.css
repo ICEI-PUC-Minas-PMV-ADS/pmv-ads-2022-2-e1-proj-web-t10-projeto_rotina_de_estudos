@@ -1,0 +1,182 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #0c0ce94d;
+}
+
+.container {
+  width: 80%;
+  height: 80vh;
+  display: flex;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.212);
+}
+.box{
+  width: 80%;
+  height: 80vh;
+  border: 2px solid #fff;
+  margin: 15px;
+  padding: 10;
+  background-color: #fff;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.212)
+}
+.boxtittle{
+    display: flex;
+    text-align: center;
+    color: #6c63ff;
+    width: 100%;
+    height: 15%;
+    padding: 0;
+    margin: 0px;
+  }
+
+  
+  .input-box input {
+    margin: 0.6rem 0;
+    padding: 0.8rem 1.2rem;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px #0000001c;
+    font-size: 0.8rem;
+  }
+  
+  .input-box input:hover {
+    background-color: #eeeeee75;
+  }
+  
+  .input-box input:focus-visible {
+    outline: 1px solid #6c63ff;
+  }
+  
+  .input-box label,
+  .gender-title h6 {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #000000c0;
+  }
+  
+  .input-box input::placeholder {
+    color: #000000be;
+  }
+
+  .input-box0 input {
+    margin: 0.6rem 0;
+    padding: 0.8rem 27.2rem;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px #0000001c;
+    font-size: 0.8rem;
+  }
+  
+  .input-box0 input:hover {
+    background-color: #eeeeee75;
+  }
+  
+  .input-box0 input:focus-visible {
+    outline: 1px solid #6c63ff;
+  }
+  
+  .input-box0 label,
+  .gender-title h6 {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #000000c0;
+  }
+  
+  .input-box0 input::placeholder {
+    color: #000000be;
+  }
+  .input-box1 input {
+    margin: 0.6rem 0;
+    padding: 1.8rem 26.36rem;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px #0000001c;
+    font-size: 0.8rem;
+  }
+
+  .input-box1 input:hover {
+    background-color: #eeeeee75;
+  }
+  
+  .input-box1 input:focus-visible {
+    outline: 1px solid #6c63ff;
+  }
+  
+  .input-box1 label,
+  .gender-title h6 {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #000000c0;
+  }
+  
+  .input-box1 input::placeholder {
+    color: #000000be;
+  }
+
+.box2 {
+    width: 32%;
+    height: 10%;
+    margin: 12px;
+    padding: 10;
+  }
+  
+.save-button {
+    display: flex;
+    align-items: center;
+    float:left;
+  }
+      
+.save-button button {
+    border: none;
+    background-color: #187a00;
+    padding: 0.4rem 4rem;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+  }
+      
+.save-button button:hover {
+    background-color: #1b8500;
+  }
+      
+.save-button button a {
+    text-decoration: none;
+    font-weight: 500;
+    color: #fff;
+  }
+    
+  
+.cancel-button {
+    display: flex;
+    align-items: center;
+    float:right;
+  }
+  
+.cancel-button button {
+    border: none;
+    background-color: rgb(44, 43, 43);
+    padding: 0.4rem 4rem;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+.cancel-button button:hover {
+    background-color: rgb(56, 54, 54);
+  }
+  
+.cancel-button button a {
+    text-decoration: none;
+    font-weight: 500;
+    color: #fff;
+  }

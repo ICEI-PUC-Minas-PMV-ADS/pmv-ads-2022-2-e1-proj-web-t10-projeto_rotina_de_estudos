@@ -1,31 +1,129 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
-  <head>
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="css/styles.css"
-      media="screen"
-    />
-    <script type="text/javascript" src="js/scripts.js"></script>
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <h1 id="título">Comece aqui a sua jornada!</h1>
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-  </head>
-  <title>Cadastro</title>
+<html lang="pt-br">
 
-  <body>
-    Testando
-  </body>
+<head>
+    <meta name="description" content="Página responsável pelo cadastro do projeto Rotina de Estudos">
+    <meta name="author" content="grupo ADS PUC MG - Rotina de Estudos">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   <link rel="stylesheet" href="../css/styles-02-cadastro.css">
+
+    <title>Pagina de Cadastro</title>
+</head>
+
+<body>
+    <div class="container">
+        <!-- serve para definir o quadro de fundo que está em roxo-->
+        <div class="form-image">
+            <!-- serve para definir o fundo que está em verde-->
+            <img src="../img/undraw_reminder_re_fe15.svg" alt="">
+        </div> <!-- serve para definir o fundo que está em branco-->
+        <div class="form">
+            <!-- define o formulario de cadastro-->
+            <form action="#">
+                <!-- mostra que não vai salvar em lugar nenhum-->
+                <div class="form-header">
+                    <div class="title">
+                        <h1>Cadastre-se no Rotina de Estudos</h1>
+                    </div>
+                    <div class="login-button">
+                        <button><a href="#">Entrar</a> </button>
+                    </div>
+                </div>
+
+                <div class="input-group">
+                    <!-- define o grupo de entrada de dados do cadastro-->
+                    <div class="input-box">
+                        <label for="firstname">Primeiro Nome</label>
+                        <input id="firstname" type="text" name="firstname" placeholder="Digite seu primeiro nome"
+                            required>
+                    </div>
+
+                    <div class="input-box">
+                        <label for="lastname">Sobrenome</label>
+                        <input id="lastname" type="text" name="lastname" placeholder="Digite seu Sobrenome" required>
+                    </div>
+
+                    <div class="input-box">
+                        <label for="email">Email</label>
+                        <input id="email" type="email" name="email" placeholder="Digite aqui seu email" required>
+                    </div>
+
+                    <div class="input-box">
+                        <label for="number">Celular</label>
+                        <input id="number" type="tel" name="number" placeholder="(xx) xxxxx-xxxx" required>
+                    </div>
+
+                    <div class="input-box">
+                        <label for="password">Senha</label>
+                        <input id="password" type="password" name="password" placeholder="Digite aqui sua Senha"
+                            required>
+                    </div>
+
+                    <div class="input-box">
+                        <label for="confirmpassword">Confirme sua senha</label>
+                        <input id="confirmpassword" type="confirmpassword" name="confirmpassword"
+                            placeholder="Confirme sua Senha" required>
+                    </div>
+
+                </div>
+
+                <div class="gender-inputs">
+                    <div class="gender-title">
+                        <h6>Gênero</h6>
+                    </div>
+
+                    <div class="gender-group">
+                        <div clas="gender-input">
+                            <input type="radio" id="female" name="gender">
+                            <label for="female">Feminino</label>
+                        </div>
+
+                        <div clas="gender-input">
+                            <input type="radio" id="male" name="gender">
+                            <label for="male">Masculino</label>
+                        </div>
+
+                        <div clas="gender-input">
+                            <input type="radio" id="others" name="gender">
+                            <label for="others">Outros</label>
+                        </div>
+
+                        <div clas="gender-input">
+                            <input type="radio" id="none" name="gender">
+                            <label for="nome">Prefiro não dizer</label>
+                        </div>
+
+                    </div>
+
+                    <!-- colocar o grupo concurseiro e vestibulando-->
+
+                    <div class="estudante">
+                        <div clas="estudante-title">
+                            <h6>Me classsifico como:</h6>
+                        </div>
+
+                        <div class="gender-group">
+                            <div class="escolha">
+                                <input type="radio" id="none" name="tipo">
+                                <label for="tipo">Concurseiro</label>
+                            </div>
+
+                            <div class="escolha">
+                                <input type="radio" id="none" name="tipo">
+                                <label for="tipo">Vestibulando</label>
+                            </div>
+                        </div>
+
+                        <div class="continue-button">
+                            <button><a href="#">Continuar</a></button>
+                        </div>
+            </form>
+        </div>
+    </div>
+</body>
+
 </html>
 ("git commit . -m")
