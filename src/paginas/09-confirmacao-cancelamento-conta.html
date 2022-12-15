@@ -1,21 +1,49 @@
 <!DOCTYPE html>
-<html>
-<html lang="pt-br"
-    <head>
-        <meta charset="utf-8"
-        <title>Confirmação de cancelamento de conta</title>
-    </head>
+<html lang="pt-br">
 
-    <body>
-        <h1 style="font-size:20px;text-align: center;">Voce realmente deseja remover sua conta?</h1>
-        <p style="text-align: center"> Para dar continuidade,clique no botão de confirmação abaixo.</p>
-        <p style="text-align: center"><strong>Atenção!</strong> Após confirmar, não será possivel recuperar a conta.</p>
-          <link rel="stylesheet"
-          type="text/css"
-          href="../css/styles-09-confirmacao-cancelamento-conta.css"
-          media="screen"
-  
-  <script type="text/javascript" src="js/scripts.js"></script>
+<head>
+    <meta name="description" content="Página responsável pelo cadastro do projeto Rotina de Estudos">
+    <meta name="author" content="grupo ADS PUC MG - Rotina de Estudos">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    </body>
+    <link rel="stylesheet" href="../css/styles-09-confirmacao-cancelamento-conta.css">
+
+    <title>Pagina de Confirmação Cancelamento da Conta </title>
+</head>
+
+<body>
+    <div class="container">
+        <!-- serve para definir o quadro de fundo que está em roxo-->
+        <div class="form-image">
+            <!-- serve para definir o fundo que está em verde-->
+            <img src="../img/undraw_cancel_re_pkdm.svg" alt="">
+        </div> <!-- serve para definir o fundo que está em branco-->
+        <div class="form">
+            <!-- define o formulario de cadastro-->
+            <form action="#">
+                <!-- mostra que não vai salvar em lugar nenhum-->
+                <div class="form-header">
+                    <div class="title">
+                        <h1>Você realmente deseja remover sua conta?</h1>
+                    </div>
+                </div>
+        <div class="gender-inputs">
+                    <div class="gender-title">
+                        <h5>Para dar continuidade, clique no botão confirmar exclusão.
+                            Atenção!Após removida a conta, não será possível recuperá-la.</h5>
+                    </div>
+                    <div class="cancel-button">
+                        <button><a href="#">CONFIRMAR EXCLUSÃO</a></button>
+                    </div>
+
+                    <div class="continue-button">
+                        <button><a href="#">CANCELAR</a></button>
+                    </div>
+            </form>
+        </div>
+    </div>
+</body>
+
 </html>
