@@ -44,8 +44,8 @@ Estrutura de Dados
 
 ### Instruções de acesso
 
-1.	Abra um navegador de Internet e informe a seguinte URL https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos 
-2.	A tela de boas-vindas é a primeira funcionalidade exibida pelo aplicativo.
+1. Abra um navegador de Internet e informe a seguinte URL https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_rotina_de_estudos 
+2. A tela de boas-vindas é a primeira funcionalidade exibida pelo aplicativo.
 
 ## Página de Cadastro (RF-02 e RF-03)
 
@@ -62,9 +62,9 @@ O usuário será direcionado para a página de cadastro, onde ele irá inserir s
 
 ### Instruções de acesso
 
-3.	Após clicar no botão de cadastre-se na página de boas-vindas, o usuário será redirecionado para a página de cadastro.
-4.	Nessa página o usuário informará seu nome, e-mail, celular gênero e senha.
-5.	Após preencher os campos devidos escolha a opção vestibulando ou concurseiro. 
+3. Após clicar no botão de cadastre-se na página de boas-vindas, o usuário será redirecionado para a página de cadastro.
+4. Nessa página o usuário informará seu nome, e-mail, celular gênero e senha.
+5. Após preencher os campos devidos escolha a opção vestibulando ou concurseiro. 
 
 ## Página Principal Vestibulando (RF-04)
 
@@ -84,8 +84,8 @@ Na página principal do vestibulando, o título apresentará o nome do usuário 
 
 ### Instruções de acesso
 
-6-	Após clicar no botão de continuar na página de cadastro, o usuário será redirecionado para a página do vestibulando.
-7-	Nessa página o usuário pode adicionar os conteúdos pela área do conhecimento, voltar a conta e acessar os relatórios. 
+6. Após clicar no botão de continuar na página de cadastro, o usuário será redirecionado para a página do vestibulando.
+7. Nessa página o usuário pode adicionar os conteúdos pela área do conhecimento, voltar a conta e acessar os relatórios. 
 
 ## Página Principal Concurseiro (RF-05)
 
@@ -105,8 +105,8 @@ Na página principal do concurseiro, o título apresentará o nome do usuário c
 
 ### Instruções de acesso
 
-8-	Após clicar no botão de continuar na página de cadastro, o usuário será redirecionado para a página do concurseiro.
-9-	Nessa página o usuário pode adicionar os conteúdos do concurso, voltar a conta, acessar os relatórios e edital.
+8. Após clicar no botão de continuar na página de cadastro, o usuário será redirecionado para a página do concurseiro.
+9. Nessa página o usuário pode adicionar os conteúdos do concurso, voltar a conta, acessar os relatórios e edital.
 
 ## Página Cadastro Conteúdo (RF-06 e RF-07)
 
@@ -126,8 +126,9 @@ Quando o usuário, vestibulando ou concurseiro, clicar em adicionar um novo cont
 
 ### Instruções de acesso
 
-10-	Após clicar no botão de adicionar conteúdo na página principal do concurseiro ou vestibulando, o usuário será redirecionado para a página de adição de conteúdo.
-11-	Nessa página o usuário pode adicionar os conteúdos do concurso ou vestibular, estabelecendo um título para a tarefa seguido da descrição. Também será possível estabelecer um prazo para terminar a tarefa e escolher o seu status. 
+ 10. Após clicar no botão de adicionar conteúdo na página principal do concurseiro ou vestibulando, o usuário será redirecionado para a página de adição de conteúdo.
+ 11. Nessa página o usuário pode adicionar os conteúdos do concurso ou vestibular, estabelecendo um título para a tarefa seguido da descrição. Também será possível estabelecer um prazo para terminar a tarefa e escolher o seu status.
+
 
 ## Página Edição Conteúdo (RF-08)
 
@@ -147,7 +148,7 @@ Se o usuário desejar editar o conteúdo, ele irá clicar no botão editar na p�
 
 ### Instruções de acesso
 
-12-	Nessa página o usuário pode editar as informações do conteúdo cadastrado, como o título, descrição, prazo e status.
+12. Nessa página o usuário pode editar as informações do conteúdo cadastrado, como o título, descrição, prazo e status.
 
 ## Página Remoção de Conteúdo (RF-09)
 
@@ -169,7 +170,7 @@ Se o usuário desejar remover o conteúdo, ele irá clicar no botão remover na 
 
 ### Instruções de acesso
 
-13-	Nessa tela o usuário remove a tarefa cadastrada clicando em Remover.
+13. Nessa tela o usuário remove a tarefa cadastrada clicando em Remover.
 
 ## Página Acompanhe aqui o seu progresso (RF-10)
 
@@ -191,7 +192,7 @@ Na página principal, o usuário poderá acessar o tópico relatório, que direc
 
 ### Instruções de acesso
 
-14-	Nessa tela o usuário acompanha o seu progresso através de indicadores nas cores vermelho – tarefas não iniciadas, amarelo – tarefas em andamento, verde – tarefas concluídas. 
+14. Nessa tela o usuário acompanha o seu progresso através de indicadores nas cores vermelho – tarefas não iniciadas, amarelo – tarefas em andamento, verde – tarefas concluídas. 
 
 
 ## Página Adicionar Edital (RF-11)
@@ -215,7 +216,7 @@ Na página principal do concurseiro, no menu meu edital, o usuário poderá inse
 
 ### Instruções de acesso
 
-15-	Nessa tela o usuário adiciona o edital clicando em salvar.
+15. Nessa tela o usuário adiciona o edital clicando em salvar.
 
 
 ## Página Edição de Cadastro e Exclusão de conta (RF-12)
@@ -241,7 +242,7 @@ Na página principal terá o menu minha conta, onde o usuário poderá fazer alt
 
 ### Instruções de acesso
 
-16-	Na tela de edição o usuário edita as informações de cadastro clicando em confirmar.
-17-	Na tela de remoção da conta o usuário encerra a conta clicando em confirmar exclusão.
+16. Na tela de edição o usuário edita as informações de cadastro clicando em confirmar.
+17. Na tela de remoção da conta o usuário encerra a conta clicando em confirmar exclusão.
 
 
