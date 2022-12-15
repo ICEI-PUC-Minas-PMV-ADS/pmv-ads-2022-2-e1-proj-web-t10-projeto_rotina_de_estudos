@@ -17,7 +17,7 @@ O site deve apresentar na página inicial um texto de boas-vindas, contendo a id
 
 ●	style.css
 
-●	trello.png
+●	Undraw.svg
 
 
 Estrutura de Dados
@@ -57,7 +57,7 @@ O usuário será direcionado para a página de cadastro, onde ele irá inserir s
 
 ●	style.css
 
-●	trello.png
+●	Undraw.svg
 
 
 ### Instruções de acesso
@@ -165,7 +165,7 @@ Se o usuário desejar remover o conteúdo, ele irá clicar no botão remover na 
 
 ●	style.css
 
-●	trello.png
+●	Undraw.svg
 
 ### Instruções de acesso
 
@@ -187,7 +187,7 @@ Na página principal, o usuário poderá acessar o tópico relatório, que direc
 
 ●	style.css
 
-●	trello.png
+●	Undraw.svg
 
 ### Instruções de acesso
 
@@ -198,7 +198,8 @@ Na página principal, o usuário poderá acessar o tópico relatório, que direc
 
 Na página principal do concurseiro, no menu meu edital, o usuário poderá inserir o link do edital e fazer anotações úteis a serem consultadas ao longo dos estudos. Após inserir os itens, ele poderá deixar salvo, clicando em salvar, ou cancelar, caso não faça nenhuma observação, retornando para a página principal em qualquer uma das ações realizada
 
-![image](https://user-images.githubusercontent.com/115049890/207487641-c5b57703-68ef-4c93-8c1f-8c7d44c56b5a.png)
+![image](https://user-images.githubusercontent.com/115049890/207754522-94bb46b4-153d-4fca-8d8e-b9f3fe7281c6.png)
+
 
 ### Requisitos atendidos
 
@@ -210,7 +211,7 @@ Na página principal do concurseiro, no menu meu edital, o usuário poderá inse
 
 ●	style.css
 
-●	trello.png
+●	Undraw.svg
 
 ### Instruções de acesso
 
@@ -223,7 +224,8 @@ Na página principal terá o menu minha conta, onde o usuário poderá fazer alt
 
 ![image](https://user-images.githubusercontent.com/115049890/207487796-9a91a01e-8630-4be8-b35e-47991015f52c.png)
 
-![image](https://user-images.githubusercontent.com/115049890/207487820-66522897-db29-49c5-8bff-74c0e2190101.png)
+![image](https://user-images.githubusercontent.com/115049890/207754579-2aad1b26-75ff-459a-b384-e2ed8951dac1.png)
+
 
 ### Requisitos atendidos
 
@@ -235,7 +237,7 @@ Na página principal terá o menu minha conta, onde o usuário poderá fazer alt
 
 ●	style.css
 
-●	trello.
+●	Undraw.svg
 
 ### Instruções de acesso
 
