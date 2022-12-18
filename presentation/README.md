@@ -1,7 +1,7 @@
 # Apresentação da Solução
 
-<a href="../docs/10-Apresentação do Projeto.md"> Orientações sobre os artefatos de apresentação do projeto</a>
+Rotina de Estudos
 
-Faça uma apresentação resumida de todo o projeto, desde a contextualização até a solução final desenvolvida, usando um pequeno vídeo.
+O objetivo deste trabalho é a criação de um site que possibilite ao estudante organizar sua rotina de estudos, através do cadastro de conteúdos programáticos realizados pelo próprio usuário, para que otimize seu tempo de estudo, aumente a demanda de conteúdos, acompanhe o seu progresso, resultando em maiores chances de aprovações.
 
-Faça o upload do arquivo de vídeo e dos slides usados na apresentação no formato PDF (caso tenha feito uso de slides).
+O público alvo são os estudantes que irão prestar o vestibular e/ou Enem e almejam ingressar em uma Universidade e também os estudantes que estão se preparando para os concursos públicos.
